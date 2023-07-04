@@ -1,4 +1,4 @@
 # YuyaTa
 
-#Ingeniria de Sistemas
-#Curso: DANP
+#Ingenieria de Sistemas
+#Curso: GES
